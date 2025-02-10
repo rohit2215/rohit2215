@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Typescript,Nextjs**
 
-- 💬 Ask me about **Data Strictures & Algorithms ,Javascript,ReactJs,Vite**
+- 💬 Ask me about **Data Structures & Algorithms ,Javascript,ReactJs,Vite**
 
-- 📫 How to reach me **rohitsrivastava10156@gmail.co**
+- 📫 How to reach me **rohitsrivastava10156@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
